@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    --page-width: 1200px;
+    --bg-color: #179460;
+
+}

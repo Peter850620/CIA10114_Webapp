@@ -56,6 +56,11 @@
 			</exclusions>
 		</dependency>
 
+		<dependency>
+			<groupId>CIA101_C_myMaven1</groupId>
+			<artifactId>CIA101_C_myMaven1</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>

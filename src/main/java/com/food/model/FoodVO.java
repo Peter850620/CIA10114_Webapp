@@ -1,6 +1,6 @@
 package com.food.model;
 
-public class FoodVO {
+public class FoodVO implements java.io.Serializable{
 	private Integer food_id;
 	private String food_name;
 	private String food_details;
